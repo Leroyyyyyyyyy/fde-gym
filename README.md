@@ -1,4 +1,4 @@
-![FDE Gym, the online judge for the new era: you need practice solving real problems](docs/images/banner.webp)
+![FDE Gym, the online judge for the LLM era: you need practice solving real problems](docs/images/banner.webp)
 
 # FDE Gym
 
@@ -19,7 +19,7 @@
 
 </div>
 
-**The online judge for the new era: beyond code, end to end.**
+**The online judge for the LLM era: beyond code, end to end.**
 
 AI can get the code right now, so right code no longer tells engineers apart. What is hard is
 getting the thing done at the customer, and the people who do it are forward deployed engineers

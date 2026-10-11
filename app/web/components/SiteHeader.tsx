@@ -199,7 +199,7 @@ export function SiteFooter() {
             <a href={DEEPLETHE_URL} target="_blank" rel="noreferrer" className={link}>DeepLethe</a>
             {L(lang, ' 与 ', ' and ')}
             <a href={`${GITHUB_URL}/graphs/contributors`} target="_blank" rel="noreferrer" className={link}>{L(lang, 'GitHub 贡献者', 'GitHub contributors')}</a>
-            {' · '}{L(lang, '新时代的 OJ：判的是交付', 'The online judge for the new era: it judges the delivery')}
+            {' · '}{L(lang, '新时代的 OJ：判的是交付', 'The online judge for the LLM era: it judges the delivery')}
           </span>
         </div>
         <span className="flex flex-wrap gap-x-4 gap-y-1">

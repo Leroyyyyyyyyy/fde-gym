@@ -91,7 +91,7 @@ export function AboutPage() {
         <div>
           <p className="eyebrow">{L(lang, '关于 FDE Gym', 'About FDE Gym')}</p>
           <h1 className="mt-3 text-[2rem] leading-[1.15] font-bold tracking-[-0.025em] sm:text-[2.75rem]">
-            {L(lang, '新时代的 OJ：', 'The online judge for the new era.')}<br />
+            {L(lang, '新时代的 OJ：', 'The online judge for the LLM era.')}<br />
             <span className="hl">{L(lang, '超越代码，聚焦于端到端。', 'Beyond code, end to end.')}</span>
           </h1>
           <p className="mt-5 max-w-2xl text-[17px] leading-[1.65] text-label-2">
