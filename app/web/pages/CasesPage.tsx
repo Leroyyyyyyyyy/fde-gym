@@ -91,7 +91,7 @@ export function CasesPage() {
       {me && !me.user && !noted && (
         <div className="card mb-6 flex flex-wrap items-center gap-x-4 gap-y-2 px-4 py-3">
           <p className="min-w-0 flex-1 text-[13px] leading-relaxed text-label-2">
-            <span className="font-semibold text-label-1">{L(lang, 'FDE Gym · 新时代的 OJ。', 'FDE Gym, the online judge for the new era. ')}</span>
+            <span className="font-semibold text-label-1">{L(lang, 'FDE Gym · 新时代的 OJ。', 'FDE Gym, the online judge for the LLM era. ')}</span>
             {L(lang, '传统 OJ 判你的代码对不对。这里每道题是一次真实的客户交付，判的是你交的系统上线后，客户的业务好了多少。', 'A classic judge checks whether your code is right. Here each case is a real customer delivery, and what is judged is how much better the customer’s business got once your system went live.')}
           </p>
           <span className="flex shrink-0 items-center gap-1">
