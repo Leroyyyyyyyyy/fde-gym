@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use FDE Gym, please cite the paper below."
+title: "FDE Gym"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/deeplethe/fde-gym"
+url: "https://fde-gym.com"
+authors:
+  - name: DeepLethe
+preferred-citation:
+  type: article
+  title: "FDE-Gym: The Last Mile of AI Delivery"
+  year: 2026
+  month: 10
+  url: "https://arxiv.org/abs/2610.22350"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.22350"
+      description: arXiv preprint
+  authors:
+    - given-names: Dongxu
+      family-names: Yang
+    - given-names: Hongda
+      family-names: Yan
+    - given-names: Renxin
+      family-names: Wang
+    - given-names: Baoli
+      family-names: Zhang
+    - given-names: Haojia
+      family-names: Zuo
+    - given-names: Ying
+      family-names: Zhao
+    - given-names: Youmin
+      family-names: Chen
+    - given-names: Xiaojian
+      family-names: Liao
+    - given-names: Congming
+      family-names: Gao
+    - given-names: Tianyang
+      family-names: Jiang
+    - given-names: Yixiao
+      family-names: Chen
+    - given-names: Qing
+      family-names: Wang
+    - given-names: Zhiguo
+      family-names: Yu
+    - given-names: Xiaqing
+      family-names: Li
+    - given-names: Yuhao
+      family-names: Zhang
+    - given-names: Jiawen
+      family-names: Sun
+    - given-names: Renzhe
+      family-names: Xu
+    - given-names: De
+      family-names: Mi
+    - given-names: Tiancheng
+      family-names: Wu
+    - given-names: Xianya
+      family-names: Fu
+    - given-names: Xuanlu
+      family-names: Zhao
+    - given-names: Bo
+      family-names: Feng
+    - given-names: Meixuan
+      family-names: Ren
+    - given-names: Guanming
+      family-names: Lin
+    - given-names: Ziheng
+      family-names: Zhou
+    - given-names: Xinhua
+      family-names: Wang
