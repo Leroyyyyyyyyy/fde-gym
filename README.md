@@ -12,6 +12,7 @@
 [![TypeScript](https://img.shields.io/badge/BUILT%20WITH-TYPESCRIPT-3178C6?style=flat-square&labelColor=161B22&logo=typescript&logoColor=FFFFFF)](app)
 
 [![Official site](https://img.shields.io/badge/OFFICIAL-FDE--GYM.COM-FFFFFF?style=flat-square&labelColor=161B22&logo=safari&logoColor=FFFFFF)](https://fde-gym.com)
+[![Paper](https://img.shields.io/badge/PAPER-ARXIV%202610.22350-B31B1B?style=flat-square&labelColor=161B22&logo=arxiv&logoColor=FFFFFF)](https://arxiv.org/abs/2610.22350)
 [![Cases](https://img.shields.io/badge/CASES-HUGGING%20FACE-FFD21E?style=flat-square&labelColor=161B22&logo=huggingface&logoColor=FFFFFF)](https://huggingface.co/datasets/DeepLethe/FDE-Gym-examples)
 [![Self-hosted](https://img.shields.io/badge/SELF--HOSTED-DOCKER-2496ED?style=flat-square&labelColor=161B22&logo=docker&logoColor=FFFFFF)](docs/self-hosting.md)
 [![Built by DeepLethe](https://img.shields.io/badge/BUILT%20BY-DEEPLETHE-2D333B?style=flat-square&labelColor=161B22)](https://github.com/deeplethe)
@@ -136,6 +137,29 @@ The site runs the code people write. Read the Security section of
 - 🤝 [Contributing](CONTRIBUTING.md): setting up, what to run before a pull request, and how the branches are used
 - 📦 [Cases](https://huggingface.co/datasets/DeepLethe/FDE-Gym-examples): the open examples on Hugging Face, and [the full set](https://huggingface.co/datasets/DeepLethe/FDE-Gym) on request
 - 🌐 [fde-gym.com](https://fde-gym.com): the official site
+
+## Citation
+
+The benchmark and the evaluation of thirteen model configurations on it are described in
+[FDE-Gym: The Last Mile of AI Delivery](https://arxiv.org/abs/2610.22350). If you use FDE Gym,
+please cite it:
+
+```bibtex
+@misc{yang2026fdegym,
+  title         = {{FDE-Gym}: The Last Mile of {AI} Delivery},
+  author        = {Yang, Dongxu and Yan, Hongda and Wang, Renxin and Zhang, Baoli and Zuo, Haojia and
+                   Zhao, Ying and Chen, Youmin and Liao, Xiaojian and Gao, Congming and Jiang, Tianyang and
+                   Chen, Yixiao and Wang, Qing and Yu, Zhiguo and Li, Xiaqing and Zhang, Yuhao and
+                   Sun, Jiawen and Xu, Renzhe and Mi, De and Wu, Tiancheng and Fu, Xianya and
+                   Zhao, Xuanlu and Feng, Bo and Ren, Meixuan and Lin, Guanming and Zhou, Ziheng and
+                   Wang, Xinhua},
+  year          = {2026},
+  eprint        = {2610.22350},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2610.22350}
+}
+```
 
 ## Licence
 
